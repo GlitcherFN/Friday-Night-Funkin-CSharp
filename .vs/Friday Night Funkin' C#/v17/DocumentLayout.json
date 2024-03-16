@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC792C0-A9CF-469A-A574-0CC93011B2A1}|Friday Night Funkin\u0027 C#.csproj|c:\\users\\twins-gamingpc\\source\\repos\\friday night funkin\u0027 c#\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC792C0-A9CF-469A-A574-0CC93011B2A1}|Friday Night Funkin\u0027 C#.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC792C0-A9CF-469A-A574-0CC93011B2A1}|Friday Night Funkin\u0027 C#.csproj|C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC792C0-A9CF-469A-A574-0CC93011B2A1}|Friday Night Funkin\u0027 C#.csproj|solutionrelative:note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC792C0-A9CF-469A-A574-0CC93011B2A1}|Friday Night Funkin\u0027 C#.csproj|C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\notegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC792C0-A9CF-469A-A574-0CC93011B2A1}|Friday Night Funkin\u0027 C#.csproj|solutionrelative:notegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC792C0-A9CF-469A-A574-0CC93011B2A1}|Friday Night Funkin\u0027 C#.csproj|C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC792C0-A9CF-469A-A574-0CC93011B2A1}|Friday Night Funkin\u0027 C#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC792C0-A9CF-469A-A574-0CC93011B2A1}|Friday Night Funkin\u0027 C#.csproj|C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\animationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC792C0-A9CF-469A-A574-0CC93011B2A1}|Friday Night Funkin\u0027 C#.csproj|solutionrelative:animationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC792C0-A9CF-469A-A574-0CC93011B2A1}|Friday Night Funkin\u0027 C#.csproj|C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\spriterender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC792C0-A9CF-469A-A574-0CC93011B2A1}|Friday Night Funkin\u0027 C#.csproj|solutionrelative:spriterender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC792C0-A9CF-469A-A574-0CC93011B2A1}|Friday Night Funkin\u0027 C#.csproj|C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\game1helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC792C0-A9CF-469A-A574-0CC93011B2A1}|Friday Night Funkin\u0027 C#.csproj|solutionrelative:game1helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC792C0-A9CF-469A-A574-0CC93011B2A1}|Friday Night Funkin\u0027 C#.csproj|C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\notemanagerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC792C0-A9CF-469A-A574-0CC93011B2A1}|Friday Night Funkin\u0027 C#.csproj|solutionrelative:notemanagerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC792C0-A9CF-469A-A574-0CC93011B2A1}|Friday Night Funkin\u0027 C#.csproj|C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\notemanagerinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC792C0-A9CF-469A-A574-0CC93011B2A1}|Friday Night Funkin\u0027 C#.csproj|solutionrelative:notemanagerinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC792C0-A9CF-469A-A574-0CC93011B2A1}|Friday Night Funkin\u0027 C#.csproj|C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\content\\note_assets-future.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0FC792C0-A9CF-469A-A574-0CC93011B2A1}|Friday Night Funkin\u0027 C#.csproj|solutionrelative:content\\note_assets-future.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC792C0-A9CF-469A-A574-0CC93011B2A1}|Friday Night Funkin\u0027 C#.csproj|C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\rootobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC792C0-A9CF-469A-A574-0CC93011B2A1}|Friday Night Funkin\u0027 C#.csproj|solutionrelative:rootobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC792C0-A9CF-469A-A574-0CC93011B2A1}|Friday Night Funkin\u0027 C#.csproj|C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\friday night funkin\u0027 c#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FC792C0-A9CF-469A-A574-0CC93011B2A1}|Friday Night Funkin\u0027 C#.csproj|solutionrelative:friday night funkin\u0027 c#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T13:17:54.485Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AQIAAHIBAAAAAAAAAAAmwH0BAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T11:59:53.743Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\Note.cs",
+              "RelativeDocumentMoniker": "Note.cs",
+              "ToolTip": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\Note.cs",
+              "RelativeToolTip": "Note.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwEIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T12:07:47.668Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpriteRender.cs",
+              "DocumentMoniker": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\SpriteRender.cs",
+              "RelativeDocumentMoniker": "SpriteRender.cs",
+              "ToolTip": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\SpriteRender.cs",
+              "RelativeToolTip": "SpriteRender.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAhwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:51:43.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game1Helpers.cs",
+              "DocumentMoniker": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\Game1Helpers.cs",
+              "RelativeDocumentMoniker": "Game1Helpers.cs",
+              "ToolTip": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\Game1Helpers.cs",
+              "RelativeToolTip": "Game1Helpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:30:07.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NoteManagerBase.cs",
+              "DocumentMoniker": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\NoteManagerBase.cs",
+              "RelativeDocumentMoniker": "NoteManagerBase.cs",
+              "ToolTip": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\NoteManagerBase.cs",
+              "RelativeToolTip": "NoteManagerBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T05:26:33.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnimationManager.cs",
+              "DocumentMoniker": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\AnimationManager.cs",
+              "RelativeDocumentMoniker": "AnimationManager.cs",
+              "ToolTip": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\AnimationManager.cs",
+              "RelativeToolTip": "AnimationManager.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAawCQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T10:48:00.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoteGroup.cs",
+              "DocumentMoniker": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\NoteGroup.cs",
+              "RelativeDocumentMoniker": "NoteGroup.cs",
+              "ToolTip": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\NoteGroup.cs",
+              "RelativeToolTip": "NoteGroup.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T12:10:55.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NoteManagerInstance.cs",
+              "DocumentMoniker": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\NoteManagerInstance.cs",
+              "RelativeDocumentMoniker": "NoteManagerInstance.cs",
+              "ToolTip": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\NoteManagerInstance.cs",
+              "RelativeToolTip": "NoteManagerInstance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T05:17:11.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NOTE_assets-future.xml",
+              "DocumentMoniker": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\Content\\NOTE_assets-future.xml",
+              "RelativeDocumentMoniker": "Content\\NOTE_assets-future.xml",
+              "ToolTip": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\Content\\NOTE_assets-future.xml",
+              "RelativeToolTip": "Content\\NOTE_assets-future.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-03-15T05:11:10.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RootObject.cs",
+              "DocumentMoniker": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\RootObject.cs",
+              "RelativeDocumentMoniker": "RootObject.cs",
+              "ToolTip": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\RootObject.cs",
+              "RelativeToolTip": "RootObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T12:32:23.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Friday Night Funkin\u0027 C#.csproj",
+              "DocumentMoniker": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\Friday Night Funkin\u0027 C#.csproj",
+              "RelativeDocumentMoniker": "Friday Night Funkin\u0027 C#.csproj",
+              "ToolTip": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin\u0027 C#\\Friday Night Funkin\u0027 C#.csproj",
+              "RelativeToolTip": "Friday Night Funkin\u0027 C#.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBZwCMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T11:59:46.373Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

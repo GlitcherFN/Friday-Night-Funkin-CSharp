@@ -1,0 +1,48 @@
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\Content\Notes.xnb
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\Content\NOTE_assets-future.xnb
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\Content\NOTE_assets-futureXml.xnb
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\Friday Night Funkin' C#.exe
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\Friday Night Funkin' C#.deps.json
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\Friday Night Funkin' C#.runtimeconfig.json
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\Friday Night Funkin' C#.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\Friday Night Funkin' C#.pdb
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\Autofac.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\EmptyKeys.UserInterface.Core.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\EmptyKeys.UserInterface.Debug.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\EmptyKeys.UserInterface.MonoGame.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\EmptyKeys.UserInterface.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\MonoGame.Extended.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\MonoGame.Extended.Animations.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\MonoGame.Extended.Entities.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\MonoGame.Extended.Graphics.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\MonoGame.Extended.Gui.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\MonoGame.Extended.Input.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\MonoGame.Extended.Particles.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\MonoGame.Extended.Tiled.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\MonoGame.Extended.Tweening.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\TexturePackerLoader.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\obj\x64\Debug\net6.0\Friday Night Funkin' C#.csproj.AssemblyReference.cache
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\obj\x64\Debug\net6.0\Friday Night Funkin' C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\obj\x64\Debug\net6.0\Friday Night Funkin' C#.AssemblyInfoInputs.cache
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\obj\x64\Debug\net6.0\Friday Night Funkin' C#.AssemblyInfo.cs
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\obj\x64\Debug\net6.0\Friday Night Funkin' C#.csproj.CoreCompileInputs.cache
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\obj\x64\Debug\net6.0\Friday N.1EC395B1.Up2Date
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\obj\x64\Debug\net6.0\Friday Night Funkin' C#.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\obj\x64\Debug\net6.0\refint\Friday Night Funkin' C#.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\obj\x64\Debug\net6.0\Friday Night Funkin' C#.pdb
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\obj\x64\Debug\net6.0\Friday Night Funkin' C#.genruntimeconfig.cache
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\obj\x64\Debug\net6.0\ref\Friday Night Funkin' C#.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\Content\File.xnb
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\Content\its-a-me.json
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Twins-GamingPC\source\repos\Friday Night Funkin' C#\bin\x64\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

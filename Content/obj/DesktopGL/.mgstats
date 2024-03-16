@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Twins-GamingPC/source/repos/Friday Night Funkin' C#/Content/File.spritefont","C:/Users/Twins-GamingPC/source/repos/Friday Night Funkin' C#/Content/bin/DesktopGL/Content/File.xnb","FontDescriptionProcessor","SpriteFontContent",2072,37919,0.2015993
+"C:/Users/Twins-GamingPC/source/repos/Friday Night Funkin' C#/Content/NOTE_assets-future.png","C:/Users/Twins-GamingPC/source/repos/Friday Night Funkin' C#/Content/bin/DesktopGL/Content/NOTE_assets-future.xnb","TextureProcessor","Texture2DContent",571497,4915285,0.2962328
+"C:/Users/Twins-GamingPC/source/repos/Friday Night Funkin' C#/Content/Notes.png","C:/Users/Twins-GamingPC/source/repos/Friday Night Funkin' C#/Content/bin/DesktopGL/Content/Notes.xnb","TextureProcessor","Texture2DContent",508229,4190293,0.1035763

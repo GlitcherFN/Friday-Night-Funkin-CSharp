@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ma2H/pJMAfJpj/QVcblZhSMqyZwcv1yEYsNG4EQePw4tp0e78GLH/BJL//LFptqxVGJxHPOux7ZsiXZpGyFGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Twins-GamingPC\\source\\repos\\Friday Night Funkin' C#\\Friday Night Funkin' C#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Twins-GamingPC\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
+    "C:\\Users\\Twins-GamingPC\\.nuget\\packages\\emptykeysui_monogame\\3.3.0\\emptykeysui_monogame.3.3.0.nupkg.sha512",
+    "C:\\Users\\Twins-GamingPC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Twins-GamingPC\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Twins-GamingPC\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Twins-GamingPC\\.nuget\\packages\\monogame.extended\\3.8.0\\monogame.extended.3.8.0.nupkg.sha512",
+    "C:\\Users\\Twins-GamingPC\\.nuget\\packages\\monogame.extended.animations\\3.7.0\\monogame.extended.animations.3.7.0.nupkg.sha512",
+    "C:\\Users\\Twins-GamingPC\\.nuget\\packages\\monogame.extended.content.pipeline\\3.8.0\\monogame.extended.content.pipeline.3.8.0.nupkg.sha512",
+    "C:\\Users\\Twins-GamingPC\\.nuget\\packages\\monogame.extended.entities\\3.8.0\\monogame.extended.entities.3.8.0.nupkg.sha512",
+    "C:\\Users\\Twins-GamingPC\\.nuget\\packages\\monogame.extended.graphics\\3.8.0\\monogame.extended.graphics.3.8.0.nupkg.sha512",
+    "C:\\Users\\Twins-GamingPC\\.nuget\\packages\\monogame.extended.gui\\3.8.0\\monogame.extended.gui.3.8.0.nupkg.sha512",
+    "C:\\Users\\Twins-GamingPC\\.nuget\\packages\\monogame.extended.input\\3.8.0\\monogame.extended.input.3.8.0.nupkg.sha512",
+    "C:\\Users\\Twins-GamingPC\\.nuget\\packages\\monogame.extended.particles\\3.8.0\\monogame.extended.particles.3.8.0.nupkg.sha512",
+    "C:\\Users\\Twins-GamingPC\\.nuget\\packages\\monogame.extended.tiled\\3.8.0\\monogame.extended.tiled.3.8.0.nupkg.sha512",
+    "C:\\Users\\Twins-GamingPC\\.nuget\\packages\\monogame.extended.tweening\\3.8.0\\monogame.extended.tweening.3.8.0.nupkg.sha512",
+    "C:\\Users\\Twins-GamingPC\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Twins-GamingPC\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Twins-GamingPC\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Twins-GamingPC\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
+    "C:\\Users\\Twins-GamingPC\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\Twins-GamingPC\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\Twins-GamingPC\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Twins-GamingPC\\.nuget\\packages\\system.windows.extensions\\8.0.0\\system.windows.extensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Twins-GamingPC\\.nuget\\packages\\texturepacker-monogameloader\\1.1.0\\texturepacker-monogameloader.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
